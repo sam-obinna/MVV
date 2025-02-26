@@ -1,1 +1,0 @@
-{'name': 'Bappy', 'age': 23, 'gender': 'male'}
